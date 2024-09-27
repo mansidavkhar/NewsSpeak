@@ -13,7 +13,7 @@ class NewsApp(App):
     def fetch_news(self):
         url = ('https://newsapi.org/v2/top-headlines?'
                'country=us&'
-               'apiKey=14af8ae6ce074be49130e544629446a0')
+               'apiKey=YOUR_API_KEY')
         
         response = requests.get(url)
         if response.status_code == 200:

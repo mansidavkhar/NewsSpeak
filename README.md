@@ -11,7 +11,7 @@ A simple app that fetches and reads out top news headlines using text-to-speech 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/newsspeak.git
+   git clone https://github.com/mansidavkhar/NewsSpeak.git
    cd newsspeak
 
 2. Install the required dependencies:
